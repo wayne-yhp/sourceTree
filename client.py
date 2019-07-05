@@ -45,13 +45,15 @@ sk.close()
 # local2
 #local3
 #remote
-<<<<<<< HEAD
->>>>>>> .merge_file_ndHDIM
 
-
+# remote2
 # aaaa
-=======
+
 
 #23123
+<<<<<<< HEAD
 >>>>>>> 20c610de102afd047c7073092df8b70ea8f4ffde
 # 123456
+=======
+
+>>>>>>> e8b9200ea31c61c5856bc291039127777985c5f0
