@@ -56,9 +56,7 @@ sk.close()
 
 # local 3
 # 123456
-<<<<<<< HEAD
->>>>>>> 3c9a241b91ff72a4663f4b60b398ccf3ea9ffc98
+#remote 5
+
 
 # loca;4
-=======
->>>>>>> a67e0a40aa9b6e414356e102f3f86d22d5e53b1a
