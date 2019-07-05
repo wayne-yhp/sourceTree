@@ -5,7 +5,7 @@ import getopt
 import sys
 
 opts, args = getopt.gnu_getopt(sys.argv[1:], '', ['host=', 'port='])
-ip = '127.0.0.1'
+ip = '127.0.0.1' #good
 port = 5678
 for opt, arg in opts:
     if opt in ('--host'):
