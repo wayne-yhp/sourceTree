@@ -45,8 +45,5 @@ sk.close()
 #remote
 #remote2
 #remote3
-<<<<<<< HEAD
 #local4
-=======
 #remote4
->>>>>>> bba542d27c8df06c238f01c51b99c57efbdba920
