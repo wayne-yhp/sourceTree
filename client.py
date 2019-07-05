@@ -43,11 +43,14 @@ sk.close()
 
 # local
 # local2
-<<<<<<< .merge_file_vHXvCX
 #local3
-=======
 #remote
+<<<<<<< HEAD
 >>>>>>> .merge_file_ndHDIM
 
 
 # aaaa
+=======
+
+#23123
+>>>>>>> 20c610de102afd047c7073092df8b70ea8f4ffde
