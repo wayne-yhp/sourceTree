@@ -15,7 +15,7 @@ for opt, arg in opts:
 
 
 ip_port = (ip, port)
-sk = socket.socket()
+sk = socket.socket() # socket
 sk.connect(ip_port)
 user_input = raw_input("请输入指令")
 while user_input != "quit":
