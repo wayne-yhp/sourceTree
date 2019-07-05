@@ -43,4 +43,8 @@ sk.close()
 
 # local
 # local2
+<<<<<<< .merge_file_vHXvCX
 #local3
+=======
+#remote
+>>>>>>> .merge_file_ndHDIM
