@@ -52,11 +52,7 @@ sk.close()
 
 #23123
 # remote 3
-
-<<<<<<< HEAD
->>>>>>> e8b9200ea31c61c5856bc291039127777985c5f0
+# remote 4
 
 # local 3
-=======
 # 123456
->>>>>>> 3c9a241b91ff72a4663f4b60b398ccf3ea9ffc98
