@@ -36,5 +36,9 @@ while user_input != "quit":
 # print server_reply
 sk.close()
 
+<<<<<<< HEAD
 # 123
 
+=======
+# ffff
+>>>>>>> 2e8f46c551ffe827ccadafd5c3c8fc5c61770e2b
