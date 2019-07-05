@@ -67,3 +67,4 @@ sk.close()
 # local5
 =======
 >>>>>>> 9cec25fc214ae708428013edcae84f8bb48cb2e8
+# local6
